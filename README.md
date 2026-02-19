@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 結論は急がない。
 
 未完成は、放っておくと勝手に完成させられる
+
+ここには、未整理の断片が置かれます。
